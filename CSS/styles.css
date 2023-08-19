@@ -89,7 +89,12 @@ main {
         border-radius: 7px;
         opacity: 0; }
         main .mi-carrusel div div .contenedor-carrusel .descripcion-imagen-del-carrusel p {
-          background-color: #0a0a0a; }
+          background-color: #0a0a0a;
+          padding: 20px;
+          font-size: 18px;
+          line-height: 1.9; }
+          main .mi-carrusel div div .contenedor-carrusel .descripcion-imagen-del-carrusel p b {
+            background-color: #0a0a0a; }
     main .mi-carrusel div div .contenedor-carrusel:hover .imagen-del-carrusel {
       transform: translateX(-50%);
       transition: 1s; }

@@ -41,6 +41,13 @@ main{
 
                         p{
                             background-color: $fondo-dropdown;
+                            padding: 20px;
+                            font-size: 18px;
+                            line-height: 1.9;
+
+                            b{
+                                background-color: $fondo-dropdown;
+                            }
                         }
                     }
                 }
